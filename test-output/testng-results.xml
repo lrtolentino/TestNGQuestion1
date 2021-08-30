@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4778" started-at="2021-08-29T22:40:19 CDT" finished-at="2021-08-29T22:40:24 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4778" started-at="2021-08-29T22:40:19 CDT" finished-at="2021-08-29T22:40:24 CDT">
+      <class name="util.RunningTestNG">
+        <test-method status="PASS" signature="init()[pri:0, instance:util.RunningTestNG@704a52ec]" name="init" is-config="true" duration-ms="2358" started-at="2021-08-29T22:40:19 CDT" finished-at="2021-08-29T22:40:21 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="TestNGAutomation()[pri:0, instance:util.RunningTestNG@704a52ec]" name="TestNGAutomation" duration-ms="2389" started-at="2021-08-29T22:40:21 CDT" finished-at="2021-08-29T22:40:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNGAutomation -->
+      </class> <!-- util.RunningTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
